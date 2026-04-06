@@ -181,7 +181,7 @@ http://你的服务器IP:10099/v0/oauth/kiro
 模型是：kiro-claude-sonnet-4
 
 
-有问题欢迎在频道https://t.me/wzxylh留言
+有问题欢迎在频道留言https://t.me/wzxylh
 
 
 
