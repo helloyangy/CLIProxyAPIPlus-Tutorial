@@ -176,13 +176,12 @@ http://你的服务器IP:10099/v0/oauth/kiro
 
 ![32b08396dcb4c6800f125d4a85f7bbba.png](./_resources/32b08396dcb4c6800f125d4a85f7bbba.png)
 
-调用接口是：http://你的服务器IP:9999
+调用接口是：http://你的服务器IP:9999/v1
 
 模型是：kiro-claude-sonnet-4
 
 
-
-
+有问题欢迎在频道https://t.me/wzxylh留言
 
 
 
