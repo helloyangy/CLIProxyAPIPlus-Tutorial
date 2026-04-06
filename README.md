@@ -16,6 +16,8 @@
 
 也可以看做是CLIProxyAPI Plus（CLIProxyAPI ）的Docker版本部署教程
 
+项目地址：https://github.com/router-for-me/CLIProxyAPIPlus
+
 **教程**
 
 1.Ubuntu24系统更新依赖
