@@ -132,7 +132,7 @@ sudo docker ps
 
 11.登录，在浏览器打开，输入之前设置的密码123456
 
-http://你的服务器IP:9999/management.htm
+http://你的服务器IP:9999/management.html
 
 ![5ee13ac2e15510b6a33a50c87b2b3cf6.png](./_resources/5ee13ac2e15510b6a33a50c87b2b3cf6.png)
 
