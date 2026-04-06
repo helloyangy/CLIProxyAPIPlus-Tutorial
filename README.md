@@ -81,7 +81,9 @@ mkdir -p ~/CLIProxyAPIPlus/auths ~/CLIProxyAPIPlus/logs && cd ~/CLIProxyAPIPlus
 
 7.下载配置文件
 
+```
 curl -o config.yaml https://raw.githubusercontent.com/router-for-me/CLIProxyAPIPlus/main/config.example.yaml
+```
 
 ![04fdf75686c2c111ec50bc70d9f02f82.png](./_resources/04fdf75686c2c111ec50bc70d9f02f82.png)
 
